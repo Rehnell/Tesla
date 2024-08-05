@@ -131,6 +131,7 @@ body {
     top: 390;
     left: 465;
     padding-right: 40px;
+    z-index: 351;
 }
 
 /* Title - Model3 */
