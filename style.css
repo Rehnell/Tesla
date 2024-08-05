@@ -112,8 +112,9 @@ body {
     object-fit: scale-down;
     position: relative;
     overflow-x: hidden;
-    overflow: hidden;
+    overflow-y: hidden;
     top: -400px;
+    width: 100%;
 }
 
 /* Order now button */
