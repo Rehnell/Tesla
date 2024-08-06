@@ -266,13 +266,13 @@ h3 {
 
 @media (min-width: 800px) {
     .accessoriepic {
-        left: -300px;
+        left: -600px;
     }
 }
 
 @media (min-width: 800px) {
     .energypic {
-        left: -300px;
+        left: -600px;
     }
 }
 
