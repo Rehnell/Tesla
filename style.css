@@ -265,6 +265,13 @@ h3 {
     }
 }
 
+@media only screen and (max-width: 1425px) {
+    .price {
+        left: 150px;
+        top: 120px;
+    }
+}
+
 /* 800px - Tablet */
 @media only screen and (max-width: 800px) {
     .section1pic {
