@@ -254,6 +254,7 @@ h3 {
 @media (min-width: 1920px) {
     .section1pic {
         width: 100%; /* Make the image full width */
+        left: -200px;
     }
 }
 
