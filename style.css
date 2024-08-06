@@ -258,7 +258,7 @@ h3 {
 }
 
 /* Laptop/Desktop -  1425px  */
-@media only screen and (min-width: 1425px) {
+@media only screen and (max-width: 1425px) {
     h1 {
         left: 550px;
         top: 100px;
@@ -266,39 +266,39 @@ h3 {
 }
 
 /* 800px - Tablet */
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 800px) {
     .section1pic {
         left: -300px;
     }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 800px) {
     h1 {
         left: 150px;
         top: 100px;
     }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 800px) {
     .price {
         left: 150px;
         top: 100px;
     }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 800px) {
     .accessoriepic {
         left: -800px;
     }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 800px) {
     h2 {
         left: 150px;
     }
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (max-width: 800px) {
     .energypic {
         left: -800px;
     }
