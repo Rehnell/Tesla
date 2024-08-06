@@ -264,9 +264,18 @@ h3 {
     }
 }
 
-h1 {
-    left: 150px;
-    top: 100px;
+@media (min-width: 800px) {
+    h1 {
+        left: 150px;
+        top: 100px;
+    }
+}
+
+@media (min-width: 800px) {
+    .price {
+        left: 150px;
+        top: 100px;
+    }
 }
 
 @media (min-width: 800px) {
@@ -275,8 +284,10 @@ h1 {
     }
 }
 
-h2 {
-    left: 150px;
+@media (min-width: 800px) {
+    h2 {
+        left: 150px;
+    }
 }
 
 @media (min-width: 800px) {
