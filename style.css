@@ -249,11 +249,19 @@ h3 {
 
 /* Media queries - Responsiveness */
 
-/* 24" Desktop -  1920 x 1200 */
+/* 24" Desktop -  1920px */
 
 @media only screen and (min-width: 1920px) {
     .section1pic {
         width: 100%; /* Make the image full width */
+    }
+}
+
+/* Laptop/Desktop -  1425px  */
+@media only screen and (min-width: 1425px) {
+    h1 {
+        left: 550px;
+        top: 100px;
     }
 }
 
