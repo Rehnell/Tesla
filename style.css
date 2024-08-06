@@ -264,3 +264,15 @@ h3 {
     }
 }
 
+@media (min-width: 800px) {
+    .accessoriepic {
+        left: -300px;
+    }
+}
+
+@media (min-width: 800px) {
+    .energypic {
+        left: -300px;
+    }
+}
+
