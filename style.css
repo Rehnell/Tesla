@@ -260,7 +260,7 @@ h3 {
 /* Laptop/Desktop -  1425px  */
 @media only screen and (max-width: 1425px) {
     h1 {
-        left: 550px;
+        left: 530px;
         top: 100px;
     }
 }
