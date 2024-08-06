@@ -279,7 +279,7 @@ h3 {
 }
 
 @media only screen and (min-width: 1920px) {
-    .accessoriepic {
+    h2 {
         top: 410px;
         left: 920px;
     }
