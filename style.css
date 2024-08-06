@@ -260,7 +260,6 @@ h3 {
 /* 800px - Tablet */
 @media (min-width: 800px) {
     .section1pic {
-        width: 100%; /* Make the image full width */
         left: -300px;
     }
 }
