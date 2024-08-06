@@ -264,6 +264,10 @@ h3 {
     }
 }
 
+h1 {
+    left: 100px;
+}
+
 @media (min-width: 800px) {
     .accessoriepic {
         left: -800px;
