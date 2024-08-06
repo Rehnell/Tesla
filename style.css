@@ -266,6 +266,7 @@ h3 {
 
 h1 {
     left: 150px;
+    top: 60px;
 }
 
 @media (min-width: 800px) {
