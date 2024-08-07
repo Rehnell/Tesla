@@ -301,6 +301,13 @@ h3 {
 /* 1680px - Desktop 22" */
 
 @media only screen and (max-width: 1680px) {
+    h1 {
+        top: 120px;
+        left: 800px;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
     .footer {
         height: 200px;
     }
