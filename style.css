@@ -362,6 +362,14 @@ h3 {
     }
 }
 
+/* 1440px - Laptop/Desktop */
+@media only screen and (max-width: 1440px) {
+    h1 {
+        left: 490px;
+        top: 100px;
+    }
+}
+
 /* 1366px - Notebook 15" */
 
 @media only screen and (max-width: 1366px) {
