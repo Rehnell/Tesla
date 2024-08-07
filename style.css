@@ -363,8 +363,20 @@ h3 {
 }
 
 @media only screen and (max-width: 1440px) {
-    .energy {
-        left: 580px;
+    .terms {
+        left: 500px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    h2 {
+        left: 500px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    h3 {
+        left: 500px;
     }
 }
 
