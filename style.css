@@ -116,20 +116,6 @@ body {
     top: -400px;
 }
 
-/* Order now button */
-
-.orderbutton {
-    position: relative;
-    height: 30px;
-    width: 90px;
-    background-color: black;
-    border: none;
-    font-family: 'poppins';
-    top: 390;
-    left: 465;
-    padding-right: 40px;
-    z-index: 351;
-}
 
 /* Title - Model3 */
 
