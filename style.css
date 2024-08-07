@@ -300,7 +300,19 @@ h3 {
 
 /* 1680px - Desktop 22" */
 
+@media only screen and (max-width: 800px) {
+    .footer {
+        height: 200px;
+    }
+}
+
 /* 1680px - Desktop 20" */
+
+@media only screen and (max-width: 800px) {
+    .footer {
+        height: 200px;
+    }
+}
 
 /* 1425px - Laptop/Desktop */
 @media only screen and (max-width: 1425px) {
