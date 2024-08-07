@@ -308,6 +308,13 @@ h3 {
 }
 
 @media only screen and (max-width: 1680px) {
+    .price {
+        top: 130px;
+        left: 660px;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
     .footer {
         height: 200px;
     }
