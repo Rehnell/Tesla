@@ -285,7 +285,12 @@ h3 {
     }
 }
 
-
+@media only screen and (min-width: 1920px) {
+    h3 {
+        top: 120px;
+        left: 800px;
+    }
+}
 
 /* Laptop/Desktop -  1425px  */
 @media only screen and (max-width: 1425px) {
