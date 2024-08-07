@@ -463,3 +463,12 @@ h3 {
         left: -800px;
     }
 }
+
+/* 414px - Mobile */
+
+@media only screen and (max-width: 414px) {
+    .section1pic {
+        height: 300px;
+        width: 300px;
+    }
+}
