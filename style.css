@@ -302,7 +302,7 @@ h3 {
 
 @media only screen and (max-width: 1680px) {
     h1 {
-        top: 120px;
+        top: 400px;
         left: 660px;
     }
 }
@@ -310,6 +310,13 @@ h3 {
 @media only screen and (max-width: 1680px) {
     .price {
         top: 130px;
+        left: 660px;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
+    .terms {
+        top: 400px;
         left: 660px;
     }
 }
