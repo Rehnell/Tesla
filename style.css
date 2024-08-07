@@ -322,6 +322,18 @@ h3 {
 }
 
 @media only screen and (max-width: 1680px) {
+    h2 {
+        left: 600px;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
+    h3 {
+        left: 600px;
+    }
+}
+
+@media only screen and (max-width: 1680px) {
     .footer {
         height: 200px;
     }
@@ -329,7 +341,7 @@ h3 {
 
 /* 1600px - Desktop 20" */
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 1600px) {
     .footer {
         height: 200px;
     }
@@ -352,7 +364,19 @@ h3 {
 
 /* 1366px - Notebook 15" */
 
+@media only screen and (max-width: 1366px) {
+    .footer {
+        height: 200px;
+    }
+}
+
 /*1024 - Notebook 13" */
+
+@media only screen and (max-width: 1024px) {
+    .footer {
+        height: 200px;
+    }
+}
 
 /* 800px - Tablet */
 @media only screen and (max-width: 800px) {
