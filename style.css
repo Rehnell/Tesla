@@ -298,7 +298,11 @@ h3 {
     }
 }
 
-/* Laptop/Desktop -  1425px  */
+/* 1680px - Desktop 22" */
+
+/* 1680px - Desktop 20" */
+
+/* 1425px - Laptop/Desktop */
 @media only screen and (max-width: 1425px) {
     h1 {
         left: 530px;
@@ -312,6 +316,10 @@ h3 {
         top: 100px;
     }
 }
+
+/* 1366px - Notebook 15" */
+
+/*1024 - Notebook 13" */
 
 /* 800px - Tablet */
 @media only screen and (max-width: 800px) {
