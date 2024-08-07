@@ -362,6 +362,12 @@ h3 {
     }
 }
 
+@media only screen and (max-width: 1440px) {
+    .energy {
+        left: 580px;
+    }
+}
+
 
 /* 1425px - Laptop/Desktop */
 @media only screen and (max-width: 1425px) {
