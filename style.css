@@ -399,6 +399,19 @@ h3 {
 /* 1366px - Notebook 15" */
 
 @media only screen and (max-width: 1366px) {
+    h2 {
+        left: 500px;
+    }
+}
+
+@media only screen and (max-width: 1366px) {
+    h3 {
+        left: 500px;
+    }
+}
+
+
+@media only screen and (max-width: 1366px) {
     .footer {
         height: 200px;
     }
