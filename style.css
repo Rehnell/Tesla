@@ -292,6 +292,12 @@ h3 {
     }
 }
 
+@media only screen and (min-width: 1920px) {
+    .footer {
+        height: 200px;
+    }
+}
+
 /* Laptop/Desktop -  1425px  */
 @media only screen and (max-width: 1425px) {
     h1 {
