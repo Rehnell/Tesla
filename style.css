@@ -469,6 +469,7 @@ h3 {
 
 @media only screen and (max-width: 384px) {
     .logo {
+        left: 20px
         height: 70px;
         width: 120px;
     }
