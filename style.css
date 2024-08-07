@@ -347,6 +347,22 @@ h3 {
     }
 }
 
+
+/* 1440px - Laptop/Desktop */
+@media only screen and (max-width: 1440px) {
+    h1 {
+        left: 600px;
+        top: 100px;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    .price {
+        left: 600px;
+    }
+}
+
+
 /* 1425px - Laptop/Desktop */
 @media only screen and (max-width: 1425px) {
     h1 {
@@ -358,14 +374,6 @@ h3 {
 @media only screen and (max-width: 1425px) {
     .price {
         left: 530px;
-        top: 100px;
-    }
-}
-
-/* 1440px - Laptop/Desktop */
-@media only screen and (max-width: 1440px) {
-    h1 {
-        left: 600px;
         top: 100px;
     }
 }
