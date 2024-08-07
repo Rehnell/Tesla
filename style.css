@@ -468,6 +468,13 @@ h3 {
 /* 384px - Mobile */
 
 @media only screen and (max-width: 384px) {
+    .logo {
+        height: 70px;
+        width: 150px;
+    }
+}
+
+@media only screen and (max-width: 384px) {
     .section1pic {
         height: 650px;
         width: 650px;
