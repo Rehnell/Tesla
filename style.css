@@ -491,6 +491,14 @@ h3 {
     }
 }
 
+@media only screen and (max-width: 414px) {
+    h2 {
+        font-size: 3em;
+        left: 65px;
+    }
+}
+ 
+
 /* 384px - Mobile */
 
 @media only screen and (max-width: 384px) {
