@@ -459,6 +459,16 @@ h3 {
     }
 }
 
+
+@media only screen and (max-width: 414px) {
+    .logo {
+        left: 5px;
+        height: 80px;
+        width: 150px;
+    }
+}
+
+
 @media only screen and (max-width: 414px) {
     h1 {
         left: 120px;
