@@ -548,9 +548,8 @@ h3 {
 
 @media only screen and (max-width: 384px) {
     .section1pic {
-        height: 750px;
-        width: 680px;
-        left: 30px:
+        height: 850px;
+        width: 780px;
         overflow-x: hidden;
     }
 }
