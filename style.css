@@ -497,7 +497,12 @@ h3 {
         left: 65px;
     }
 }
- 
+
+@media only screen and (max-width: 414px) {
+    .accessoriepic {
+        height: 430px;
+    }
+}
 
 /* 384px - Mobile */
 
