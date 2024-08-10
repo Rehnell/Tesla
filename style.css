@@ -550,5 +550,7 @@ h3 {
     .section1pic {
         height: 750px;
         width: 680px;
+        left: 30px:
+        overflow-x: hidden;
     }
 }
