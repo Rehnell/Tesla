@@ -504,6 +504,12 @@ h3 {
     }
 }
 
+@media only screen and (max-width: 414px) {
+    .box-two {
+        height: 430px;
+    }
+}
+
 /* 384px - Mobile */
 
 @media only screen and (max-width: 384px) {
