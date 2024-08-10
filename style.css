@@ -483,11 +483,11 @@ h3 {
     }
 }
 
-
-
 @media only screen and (max-width: 414px) {
-    .navbarlinks {
-        display: hidden;
+    .price {
+        left: 70px;
+        top: 240px;
+        font-size: 2em;
     }
 }
 
