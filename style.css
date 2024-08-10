@@ -517,10 +517,19 @@ h3 {
 }
 
 @media only screen and (max-width: 414px) {
-    .energy {
+    .energypic {
         height: 430px;
     }
 }
+
+@media only screen and (max-width: 414px) {
+    h3 {
+        font-size: 3em;
+        left: 120px;
+    }
+}
+
+
 
 /* 384px - Mobile */
 
