@@ -181,6 +181,18 @@ h2 {
     z-index: 350;
 }
 
+.accessoriebutton {
+    position: relative;
+    background-color: #3e6ae1;
+    color: white;
+    height: 50px;
+    width: 400px;
+    border: none;
+    left: 50px;
+    top: 400px;
+
+}
+
 /* SECTION THREE */
 
 .box-three {
