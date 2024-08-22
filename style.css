@@ -150,6 +150,7 @@ h1 {
     width: 400px;
     border: none;
     left: 50px;
+    z-index: 400;
 }
 
 /* SECTION TWO */
